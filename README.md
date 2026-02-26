@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00ADD8&center=true&vCenter=true&width=900&lines=HENRIQUE+FREITAS;AI+Engineer;Intelligent+Systems%26+Automation" alt="Henrique Freitas" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00ADD8&center=true&vCenter=true&width=900&lines=HENRIQUE+FREITAS;AI+Engineer;Intelligent+Systems+Automation" alt="Henrique Freitas" />
   </a>
 </div>
 
