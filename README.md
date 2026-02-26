@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=250&section=header&text=HENRIQUE%20FREITAS&fontSize=60&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=55&descAlign=50" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20sou%20o%20Henrique&fontSize=50&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=55&descAlign=50" />
 </div>
 
