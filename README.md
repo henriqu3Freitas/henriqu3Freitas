@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=250&section=header&text=HENRIQUE%20FREITAS&fontSize=60&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=55&descAlign=50" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20sou%20o%20Henrique&fontSize=50&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=55&descAlign=50" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=HENRIQUE+FREITAS;Backend+Developer;AI+%26+Automation+Specialist" alt="Henrique Freitas" />
+  </a>
 </div>
 
 <div align="center">
