@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=HENRIQUE+FREITAS;Backend+Developer;AI+%26+Automation+Specialist" alt="Henrique Freitas" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00ADD8&center=true&vCenter=true&width=900&lines=HENRIQUE+FREITAS;AI+Engineer;Intelligent+Systems+%26+Automation" alt="Henrique Freitas" />
   </a>
 </div>
 
@@ -18,64 +18,119 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+# 👨‍🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por arquitetura de software e otimização de processos. Comecei minha jornada construindo bases sólidas no **Back-end** (com passagem pela *Assiny*), lidando com arquiteturas complexas em **Go** e orquestração de dados relacionais e não-relacionais. 
+AI Engineer focado na construção de sistemas inteligentes, automações complexas e arquiteturas escaláveis.
 
-Hoje, atuo na linha de frente da **Inteligência Artificial**, criando agentes autônomos e integrações avançadas via **n8n**. Meu objetivo é fazer sistemas diferentes conversarem de forma inteligente, unindo a robustez do back-end tradicional com o poder das APIs de IA.
+Minha base está em Engenharia de Software e desenvolvimento Back-end, o que me permite estruturar soluções de IA com robustez arquitetural e visão de longo prazo.
 
-* 🚀 **Foco Atual:** Automações complexas, IA (n8n), Integração de APIs.
-* 🧠 **Background:** Arquitetura Back-end, Microserviços e Modelagem de Dados.
-* 💬 **Pergunte-me sobre:** Golang, Fluxos no n8n ou qual o melhor banco de dados para o seu projeto!
+Hoje atuo projetando e implementando:
 
----
+- 🤖 Agentes de Inteligência Artificial  
+- 🔗 Orquestração de múltiplos sistemas  
+- ⚙️ Pipelines de automação escaláveis  
+- 🧠 Integração de LLMs com APIs externas  
+- 🚀 Infraestrutura inteligente orientada a performance  
 
-## 🛠️ Stack Tecnológico
-
-Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia para transformar ideias em realidade:
-
-### ⚙️ Back-end & Automação
-<div align="center">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/n8n-%23FF6D5W.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-%2300599C?style=for-the-badge&logo=JSON&logoColor=white" alt="APIs"/>
-</div>
-
-### 🗄️ Bancos de Dados
-<div align="center">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</div>
-
-### 🎨 Front-end
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+Não desenvolvo apenas integrações.  
+Projeto sistemas que aprendem, automatizam e escalam.
 
 ---
 
-## 📊 Analytics & Estatísticas
+# 💼 Experiência Profissional
+
+## 🤖 AI Engineer — VouDigital (Atual)
+
+- Desenvolvimento de agentes inteligentes
+- Construção de fluxos avançados com n8n
+- Integração de modelos de linguagem com sistemas corporativos
+- Criação de camadas de orquestração entre APIs
+- Automação de processos internos em escala
+- Estruturação de soluções orientadas a IA
+
+---
+
+## ⚙️ Experiência Anterior — Engenharia Back-end
+
+Experiência sólida em:
+
+- Desenvolvimento em Go  
+- Arquitetura em camadas  
+- Microsserviços  
+- Modelagem de bancos relacionais e NoSQL  
+- Construção de APIs REST e gRPC  
+- Estruturação de código escalável e manutenível  
+
+Essa base técnica sustenta minhas soluções atuais em IA.
+
+---
+
+# 🧠 Filosofia de Engenharia
+
+Minha abordagem é orientada a sistemas.
+
+✔️ Automação acima de tarefas manuais  
+✔️ Arquitetura antes da implementação  
+✔️ Escalabilidade desde o início  
+✔️ Performance e organização como padrão  
+✔️ Integração inteligente entre sistemas  
+
+Meu foco está na interseção entre Inteligência Artificial e Engenharia de Sistemas.
+
+---
+
+# 🛠 Stack Técnica
+
+## 🤖 IA & Automação
+<div align="center">
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-1f425f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5W?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2C3E50?style=for-the-badge" />
+</div>
+
+---
+
+## ⚙️ Engenharia de Sistemas
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsserviços-3C873A?style=for-the-badge" />
+</div>
+
+---
+
+## 🗄 Bancos de Dados
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0000f?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+---
+
+# 🎯 Foco Atual
+
+- Arquiteturas orientadas a IA  
+- Sistemas distribuídos inteligentes  
+- Infraestrutura de automação escalável  
+- Design de sistemas de alta performance  
+- Orquestração avançada de APIs  
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/henriqu3Freitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqu3Freitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqu3Freitas&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/henriqu3Freitas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriqu3Freitas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqu3Freitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqu3Freitas&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
 ---
+
 <div align="center">
-  <i>"Automatizando o presente para focar no futuro."</i>
+  <i>"Projetando sistemas inteligentes que automatizam o presente e escalam para o futuro."</i>
 </div>
